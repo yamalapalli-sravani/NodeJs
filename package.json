@@ -1,0 +1,14 @@
+{
+  "name": "namste-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appone.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
